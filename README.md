@@ -1,7 +1,7 @@
 # Atakan_Portfolio
 Data Analysis Portfolio
 
-# Project 1: Google Data Analytics Project: "Cyclistic" Overview
+# [Project 1: Google Data Analytics Project: "Cyclistic" Overview](https://github.com/atakanpeker/Google_Certificate_Capstone_Project)
 
 Capstone project of Google Data Analytics Professional Certificate program. 
 
