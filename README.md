@@ -14,6 +14,6 @@ My business task is to analyse previous 12 months of bike trip data of Cyclistic
 * The analysis is based on how members and casual riders differ in terms of "ride_length", "day_of_week", and "number_of_rides".
 * This report identified a trend according to being a member or casual and found differences with respect to day of the week such as weekday or in the weekend.
 
-![](https://github.com/atakanpeker/Atakan_Portfolio/blob/main/images/number_of_rides_by_rider_type.png)
+![](/images/number_of_rides_by_rider_type.png)
 
-![](https://github.com/atakanpeker/Atakan_Portfolio/blob/main/images/average_ride_length_by_rider_type.png)
+![](/images/average_ride_length_by_rider_type.png)
