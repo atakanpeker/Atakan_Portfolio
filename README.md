@@ -4,7 +4,9 @@ Data Analysis Portfolio
 # Project 1: Google Data Analytics Project: "Cyclistic" Overview
 
 Capstone project of Google Data Analytics Professional Certificate program. 
+
 This program gave me a data about a fictional company called "Cyclistic". It is a bike-share company that has casual riders and annual members.
+
 My business task is to analyse previous 12 months of bike trip data of Cyclistic and identify trends to answer how annual members and casual riders differ.
 * Using Tidyverse, Lubridate, ggplot2 packages.
 * Adding new columns to the data frame such as average length of the trip durations called "ride_length" and "day_of_week" which is the day of the week riders used the bicycle.
