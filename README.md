@@ -1,7 +1,3 @@
-# Atakan_Portfolio
-
-My projects that are related to Data Science.
-
 # [Project 1: EC48T Financial Model Project: Overview](https://github.com/atakanpeker/R_FinancialModel_Project)
 
 Group project for the “Financial Modelling and Its Applications Using R” course.
