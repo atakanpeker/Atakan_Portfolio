@@ -1,7 +1,24 @@
 # Atakan_Portfolio
-Data Analysis Portfolio
 
-# [Project 1: Google Data Analytics Project: "Cyclistic" Overview](https://github.com/atakanpeker/Google_Certificate_Capstone_Project)
+My projects that are related to Data Science.
+
+# [Project 1: EC48T Financial Model Project: Overview](https://github.com/atakanpeker/R_FinancialModel_Project)
+
+Group project for the “Financial Modelling and Its Applications Using R” course.
+
+This project’s aim is trying to find a cross correlation between RUB/TRY and WTI/TRY price through evaluating “Adjusted” prices.
+
+* Using Tidyverse, Quantmod packages
+* Collecting 2010-2021 data from yahoo finance, divided them into 4 time frames, and evaluating each one of them.
+* Creating a basic financial model based on the trading opportunity that may come out with WTI crude oil prices and the currency.
+* Calculating profit out of this opportunity.
+* This reports found a positive correlation and trading opportunity. However, we calculated very small profit out of it.
+
+![](/images/2016-2018.png)
+
+![](/images/2016-2018_ccf.png)
+
+# [Project 2: Google Data Analytics Project: "Cyclistic" Overview](https://github.com/atakanpeker/Google_Certificate_Capstone_Project)
 
 Capstone project of Google Data Analytics Professional Certificate program. 
 
